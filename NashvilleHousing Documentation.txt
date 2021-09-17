@@ -1,0 +1,2 @@
+9/16/2021
+Learning Data Cleaning with Housing Dataset. Still learning where MS SQL Server Management Studio stores databases and tables within them, to share them on Github. So only included original table and script with initial push.
